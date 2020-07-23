@@ -47,7 +47,7 @@ function spamla(){
 }
 
 	if (message.channel.id = ""){ //NİTROYU ATACAĞI KANALIN İDSİ
-		if(message.content.startsWith("fynx!nitro")){
+		if(message.content.startsWith("avcı!nitro")){
 		try{
 		var veri = message.content.toString();
 		var veriSn = veri.substring(10)
