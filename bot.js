@@ -47,7 +47,7 @@ function spamla(){
 }
 
 	if (message.channel.id = ""){ //NİTROYU ATACAĞI KANALIN İDSİ
-		if(message.content.startsWith("avcı!nitro")){
+		if(message.content.startsWith("A!nitro_generator")){
 		try{
 		var veri = message.content.toString();
 		var veriSn = veri.substring(10)
@@ -58,7 +58,7 @@ function spamla(){
 		}
 		
 		else{
-			message.reply("En az 2 yazabilirsin. (Örnek: avcı!nitro 2");
+			message.reply("en az 2 yazabilirsin. (Örnek: avcı!nitro 2");
 		}
 		}
 		catch(err){
