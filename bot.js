@@ -58,7 +58,7 @@ function spamla(){
 		}
 		
 		else{
-			message.reply("En az 2 yazabilirsin. (Örnek: fynx!nitro 2");
+			message.reply("En az 2 yazabilirsin. (Örnek: avcı!nitro 2");
 		}
 		}
 		catch(err){
