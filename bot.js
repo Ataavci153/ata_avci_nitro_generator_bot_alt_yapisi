@@ -46,7 +46,7 @@ function spamla(){
 	message.channel.send("https:/"+"/discord.gift/" + rasteleSembol(16,'0aA'));
 }
 
-	if (message.channel.id = "731975757907361812"){ //NİTROYU ATACAĞI KANALIN İDSİ
+	if (message.channel.id = ""){ //NİTROYU ATACAĞI KANALIN İDSİ
 		if(message.content.startsWith("fynx!nitro")){
 		try{
 		var veri = message.content.toString();
@@ -71,6 +71,6 @@ function spamla(){
 
 });
 
-client.login('NzMxOTc0MDg0NDIyMDA4OTI0.XwuB5g.luZ01ULgsFRTGb4RUhos1iEjL0k'); //BURAYA BOTUN TOKENİNİ YAZ
+client.login(''); //BURAYA BOTUN TOKENİNİ YAZ
 
 /////////////////////Ata avcı/////////////////////
